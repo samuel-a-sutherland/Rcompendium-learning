@@ -1,0 +1,41 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "Rcompendium-learning" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'Rcompendium-learning: A project to learn about Reproducibility'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Sutherland
+  given-names: Samuel
+  email: Samuel.A.Sutherland@warwick.ac.uk
+  orcid: https://orcid.org/0000-0003-1794-9813
+repository-code: https://github.com/samuel-a-sutherland/Rcompendium-learning
+url: https://github.com/samuel-a-sutherland/Rcompendium-learning
+contact:
+- family-names: Sutherland
+  given-names: Samuel
+  email: Samuel.A.Sutherland@warwick.ac.uk
+  orcid: https://orcid.org/0000-0003-1794-9813
+references:
+- type: software
+  title: renv
+  abstract: 'renv: Project Environments'
+  notes: Imports
+  url: https://rstudio.github.io/renv/
+  repository: https://CRAN.R-project.org/package=renv
+  authors:
+  - family-names: Ushey
+    given-names: Kevin
+    email: kevin@rstudio.com
+    orcid: https://orcid.org/0000-0003-2880-7407
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+    orcid: https://orcid.org/0000-0003-4757-117X
+  year: '2023'
