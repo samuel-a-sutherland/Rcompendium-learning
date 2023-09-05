@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![License: GPL (\>=
-2)](https://img.shields.io/badge/License-GPL%20(%3E%253D%202)-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
+2)](https://img.shields.io/badge/License-GPL%20(%3E%3D%202)-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
 [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 
 <!-- badges: end -->
